@@ -3,7 +3,7 @@ import { View, Button, Text, StyleSheet } from 'react-native';
 
 const Page1 = ({ navigation }) => (
   <View style={styles.container}>
-    <Text>booraa, funcionando bem ;D</Text>
+    <Text>testando nova branch</Text>
     <View style={styles.botao}>
     <Button style={styles.botao}
       title="Ir para About"
